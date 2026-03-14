@@ -1,4 +1,5 @@
 # 🏦 Kenya Banking — Loan Portfolio Risk Dashboard
+![Dashboard Preview](dashboard_preview.png)
 
 ![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-green)
 ![Power Query](https://img.shields.io/badge/Feature-Power%20Query-blue)
