@@ -1,4 +1,3 @@
-![Dashboard Preview](dashboard_preview.png)
 # 🏦 Kenya Banking — Loan Portfolio Risk Dashboard
 ![Dashboard Preview](dashboard_preview.png)
 
