@@ -45,6 +45,13 @@ counties, loan types and customer demographics.
 3. Monitor Mombasa closely — emerging default risk
 4. Mortgage product strategy is working — maintain standards
 
+## | Other Excel Analyst Projects |  
+- 🔗[Kenya Healthcare Analytics — Patient Admission, Cost Analysis & Risk Dashboard](https://github.com/NC-Dan/healthcare-analytics-dashboard)
+- 🔗[Global-superstore-sales-dashboard](https://github.com/NC-Dan/global-superstore-sales-dashboard)
+---
+## | Microsoft SQL Server Analyst Projects |  
+- 🔗[ibm-hr-attrition-sql-analysis](https://github.com/NC-Dan/ibm-hr-attrition-sql-analysis)
+---
 ## 👤 Author
-**NC-Duncan** | Data Analyst
-📍 Nairobi, Kenya
+**NC-Dan (Duncan N Chicho)** | Data Analyst | Open to remote Contribution  
+- Connect with me on Linkedin🔗[www.linkedin.com/in/duncanalyst](https://www.linkedin.com/in/duncanalyst/?skipRedirect=true)
