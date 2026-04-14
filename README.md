@@ -19,6 +19,13 @@ counties, loan types and customer demographics.
 - **Average repayment delay:** 19.1 days
 - **Mombasa** emerging risk — 45 avg days late ⚠️
 
+## 💡 Business Recommendations
+1. Implement stricter credit screening for Personal loans
+2. Conduct immediate Nairobi portfolio review
+3. Monitor Mombasa closely — emerging default risk
+4. Mortgage product strategy is working — maintain standards
+
+
 ##  Tools & Skills Demonstrated
 | Skill | Application |
 |---|---|
@@ -39,11 +46,6 @@ counties, loan types and customer demographics.
 | ANALYSIS | 4 Pivot Table risk analyses |
 | DASHBOARD | Executive KPI dashboard |
 
-## 💡 Business Recommendations
-1. Implement stricter credit screening for Personal loans
-2. Conduct immediate Nairobi portfolio review
-3. Monitor Mombasa closely — emerging default risk
-4. Mortgage product strategy is working — maintain standards
 
 ## | Other Excel Analyst Projects |  
 - 🔗[Kenya Healthcare Analytics — Patient Admission, Cost Analysis & Risk Dashboard](https://github.com/NC-Dan/healthcare-analytics-dashboard)
