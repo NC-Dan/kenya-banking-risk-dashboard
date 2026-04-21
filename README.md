@@ -52,6 +52,7 @@ counties, loan types and customer demographics.
 - 🔗[Global-superstore-sales-dashboard](https://github.com/NC-Dan/global-superstore-sales-dashboard)
 ---
 ## | Microsoft SQL Server Analyst Projects |  
+- 🔗[olist-ecommerce-sql-analysis](https://github.com/NC-Dan/olist-ecommerce-sql-analysis)
 - 🔗[ibm-hr-attrition-sql-analysis](https://github.com/NC-Dan/ibm-hr-attrition-sql-analysis)
 ---
 ## 👤 Author
