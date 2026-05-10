@@ -54,6 +54,10 @@ counties, loan types and customer demographics.
 ## | Microsoft SQL Server Analyst Projects |  
 - 🔗[olist-ecommerce-sql-analysis](https://github.com/NC-Dan/olist-ecommerce-sql-analysis)
 - 🔗[ibm-hr-attrition-sql-analysis](https://github.com/NC-Dan/ibm-hr-attrition-sql-analysis)
+- 🔗[Credit-card-fraud-detection-sql](https://github.com/duncanalyst/credit-card-fraud-detection-sql)
+---
+## | PowerBI Analyst Projects |  
+- 🔗[Olist-ecommerce-powerbi-analysis](https://github.com/duncanalyst/Olist-ecommerce-powerbi)
 ---
 ## 👤 Author
 **NC-Dan (Duncan N Chicho)** | Data Analyst | Open to remote Contribution  
