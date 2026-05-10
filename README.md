@@ -49,15 +49,15 @@ counties, loan types and customer demographics.
 
 ## | Other Excel Analyst Projects |  
 - 🔗[Kenya Healthcare Analytics — Patient Admission, Cost Analysis & Risk Dashboard](https://github.com/NC-Dan/healthcare-analytics-dashboard)
-- 🔗[Global-superstore-sales-dashboard](https://github.com/NC-Dan/global-superstore-sales-dashboard)
+- 🔗[Global-Superstore-Sales-Analysis-Dashboard](https://github.com/NC-Dan/global-superstore-sales-dashboard)
 ---
 ## | Microsoft SQL Server Analyst Projects |  
-- 🔗[olist-ecommerce-sql-analysis](https://github.com/NC-Dan/olist-ecommerce-sql-analysis)
-- 🔗[ibm-hr-attrition-sql-analysis](https://github.com/NC-Dan/ibm-hr-attrition-sql-analysis)
-- 🔗[Credit-card-fraud-detection-sql](https://github.com/duncanalyst/credit-card-fraud-detection-sql)
+- 🔗[Olist-Ecommerce-SQL-Analysis](https://github.com/NC-Dan/olist-ecommerce-sql-analysis)
+- 🔗[IBM-HR-Attrition-SQL-Analysis](https://github.com/NC-Dan/ibm-hr-attrition-sql-analysis)
+- 🔗[Credit-Card-Fraud-Detection-SQL](https://github.com/duncanalyst/credit-card-fraud-detection-sql)
 ---
 ## | PowerBI Analyst Projects |  
-- 🔗[Olist-ecommerce-powerbi-analysis](https://github.com/duncanalyst/Olist-ecommerce-powerbi)
+- 🔗[Olist-Ecommerce-PowerBI-Analysis](https://github.com/duncanalyst/Olist-ecommerce-powerbi)
 ---
 ## 👤 Author
 **NC-Dan (Duncan N Chicho)** | Data Analyst | Open to remote Contribution  
